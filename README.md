@@ -26,7 +26,7 @@ A website responsive of a chat app made in CSS
 
 ![desktop-design](https://user-images.githubusercontent.com/105549520/224570687-f7cb6630-80e2-4009-9fdd-a289ddca0bd0.jpg)
 
-I know its a little bit different of the solution above, but it was intentional after I to analizy I liked more with the cellphone, I think its better to view.
+I know its a little bit different of the my solution above, but it was intentional after I to analizy I liked more with the cellphone larger, I think its better to view. Like the text also its bigger. :]
 
 #### This is a great project to exercise your habilities with CSS if you are interested in do this project also the link of it bellow⬇
 https://www.frontendmentor.io/challenges/chat-app-css-illustration-O5auMkFqY/hub
