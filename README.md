@@ -1,6 +1,8 @@
 # Chat-app-CSS
 A website responsive of a chat app made in CSS
 
+#### This is a project done by using CSS, it's not a app or like of the type. Its a static website with the illustrater of the cellphone present on the site done with CSS.
+
 > status: Developing⚠️
 #### If you wanna see the website on your user agent acess the link: https://calm-melba-a2e317.netlify.app
 
