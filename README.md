@@ -30,5 +30,5 @@ A website responsive of a chat app made in CSS
 
 I know its a little bit different of the my solution above, but it was intentional after I to analizy I liked more with the cellphone larger, I think its better to view. Like the text also its bigger. :]
 
-#### This is a great project to exercise your habilities with CSS if you are interested in do this project also the link of it bellow⬇
+#### This is a great project to exercise your habilities with CSS if you are interested in do this project also the link of it bellow of the resources⬇
 https://www.frontendmentor.io/challenges/chat-app-css-illustration-O5auMkFqY/hub
