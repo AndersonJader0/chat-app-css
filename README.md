@@ -1,5 +1,5 @@
 # Chat-app-CSS
-A website of a chat app made in CSS
+A website responsive of a chat app made in CSS
 
 > status: Developing⚠️
 #### If you wanna see the website on your user agent acess the link: https://calm-melba-a2e317.netlify.app
