@@ -17,7 +17,7 @@ A website responsive of a chat app made in CSS
 #### This is the my solution done by myself with the layout challenge of the Front-end Mentor
 > Its a static web site without JavaScript or PHP, JSON...⚠️
 
-![image](https://user-images.githubusercontent.com/105549520/224572196-2e9f8076-becc-484b-8490-6a618a5c7521.png)
+![image](https://user-images.githubusercontent.com/105549520/224578925-70917420-37cf-48ee-a36d-54cea376ebfa.png)
 
 > If you are curious about the template that I used of the Front-end Mentor look bellow!⬇
 
