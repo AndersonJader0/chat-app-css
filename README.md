@@ -17,7 +17,7 @@ A website of a chat app made in CSS
 #### This is the my solution done by myself with the layout challenge of the Front-end Mentor
 > Its a static web site without JavaScript or PHP, JSON...⚠️
 
-![image](https://user-images.githubusercontent.com/105549520/224568651-f580ae26-358d-412a-a65e-919c4ca09147.png)
+![image](https://user-images.githubusercontent.com/105549520/224572196-2e9f8076-becc-484b-8490-6a618a5c7521.png)
 
 > If you are curious about the template that I used of the Front-end Mentor look bellow!⬇
 
