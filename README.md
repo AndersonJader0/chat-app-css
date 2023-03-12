@@ -5,6 +5,8 @@ A website responsive of a chat app made in CSS
 #### If you wanna see the website on your user agent acess the link: https://calm-melba-a2e317.netlify.app
 
 > The dificult of this project is <table><tr><td>Intermediary</td></tr></table>
+> Its necesseary a strong knowledge on CSS to develop the project.
+
 
 #### Technologies used
 <table>
