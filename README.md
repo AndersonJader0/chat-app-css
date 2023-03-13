@@ -22,9 +22,11 @@ A website responsive of a chat app made in CSS
 #### 🤷🏾This is the my solution done by myself with the layout challenge of the Front-end Mentor
 > Its a static web site without JavaScript or PHP, JSON...⚠️
 > Desktop Viewport 1440px
+
 ![image](https://user-images.githubusercontent.com/105549520/224789722-d2413be9-0780-4cc0-8fb8-b4b5d0586551.png)
 
 > Mobile Viewport 320px
+
 ![image](https://user-images.githubusercontent.com/105549520/224790124-95b4c63f-5a3b-4356-ab9b-7fec4625e022.png)
 
 > 🕵🏾‍♂️If you are curious about the template that I used of the Front-end Mentor look bellow!⬇
