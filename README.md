@@ -35,7 +35,7 @@ A website responsive of a chat app made in CSS
 
 ![desktop-design](https://user-images.githubusercontent.com/105549520/224570687-f7cb6630-80e2-4009-9fdd-a289ddca0bd0.jpg)
 
-> Design chaççenge Mobile
+> Design challenge Mobile
 
 ![mobile-design](https://user-images.githubusercontent.com/105549520/224790528-68e1b78e-217e-438b-8ef9-b2ae9adfd227.jpg)
 
