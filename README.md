@@ -5,7 +5,7 @@ A website responsive of a chat app made in CSS
 
 #### 👨🏾‍💻This is a project done by using CSS, it's not a app exactly. Its a static website with the illustrater of the talking app cellphone done with CSS.
 
-> ⚠️status: Done✔️
+> ⚠️status: Concluded✔️
 #### If you wanna see the website on your user agent access the link: 👉 https://calm-melba-a2e317.netlify.app
 
 > The dificult🧩🧩 of this project is <table><tr><td>Intermediary</td></tr></table>
